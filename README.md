@@ -1,3 +1,8 @@
+### License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more details.
+
 A collection of simple examples of the Gang of For (Gof) design patterns. The GoF's (Erich Gamma, Richard Helm,
 Ralph Johnson & John Vlissides) seminal work on design patterns was published in 1994 and remains relevant to
 this day. A truly timeless work.
