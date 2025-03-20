@@ -9,7 +9,7 @@ this day. A truly timeless work.
 
 Each of the patterns is placed in its own package and includes a test case which serves as the client or context for the pattern elements and demonstrate their use.  In a few cases the is also a *Demo class which is an application demonstrating the patterns use.
 
-####Creational Patterns
+### Creational Patterns
 
 * Factory Method - Defines an interface for creating objects but lets subclasses decide which class to instantiate, promoting loose coupling by delegating instantiation to subclasses.
 * Abstract Factory - Provides an interface for creating families of related or dependent objects without specifying their concrete classes, ensuring consistency among created objects.
@@ -17,7 +17,7 @@ Each of the patterns is placed in its own package and includes a test case which
 * Prototype - Creates new objects by copying an existing object (a prototype), reducing the cost of creating new instances while preserving state.
 * Singleton - Ensures that a class has only one instance and provides a global point of access to it, commonly used for managing shared resources.
 
-####Structural Patterns
+### Structural Patterns
 
 * Adapter - Converts the interface of a class into another interface expected by clients, enabling interoperability between incompatible interfaces without modifying their source code.
 * Bridge - Decouples an abstraction from its implementation so that the two can vary independently, promoting flexibility in extending both components.
@@ -27,7 +27,7 @@ Each of the patterns is placed in its own package and includes a test case which
 * Flyweight - Optimizes memory usage by sharing common object instances instead of creating new ones, useful for managing a large number of similar objects.
 * Proxy - Acts as a surrogate or placeholder for another object, controlling access to it, adding security, caching, or lazy initialization features.
 
-####Behavioral Patterns
+### Behavioral Patterns
 
 * Chain of Responsibility - Passes requests along a chain of handlers, allowing multiple objects to handle the request without the sender specifying the receiver explicitly.
 * Command - Encapsulates a request as an object, allowing parameterization of requests, queuing, logging, and undoable operations.
