@@ -2,6 +2,8 @@ A collection of simple examples of the Gang of For (Gof) design patterns. The Go
 Ralph Johnson & John Vlissides) seminal work on design patterns was published in 1994 and remains relevant to
 this day. A truly timeless work.
 
+Each of the patterns is placed in its own package and includes a test case which serves as the client or context for the pattern elements and demonstrate their use.  In a few cases the is also a *Demo class which is an application demonstrating the patterns use.
+
 ####Creational Patterns
 
 * Factory Method - Defines an interface for creating objects but lets subclasses decide which class to instantiate, promoting loose coupling by delegating instantiation to subclasses.
